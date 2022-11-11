@@ -1,0 +1,1 @@
+﻿positionForPages[24]=[{word:"21",left:0.483223,top:0.007656,width:0.471349,height:0.475567},{word:"21 号）。",left:0.108615,top:0.013501,width:0.005118,height:0.095114}];

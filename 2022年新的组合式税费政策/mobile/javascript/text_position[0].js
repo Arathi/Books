@@ -1,0 +1,1 @@
+﻿positionForPages[1]=[{word:"2022 年新的组合式税费",left:0.259029,top:0.027616,width:0.101557,height:0.231413},{word:"支持政策简介",left:0.387838,top:0.046967,width:0.046866,height:0.340871},{word:"平潭综合实验区君山税务所",left:0.470687,top:0.026809,width:0.212241,height:0.443878}];
