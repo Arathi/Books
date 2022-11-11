@@ -1,0 +1,1 @@
+﻿positionForPages[56]=[{word:"谢谢大家！",left:0.298337,top:0.080632,width:0.196346,height:0.217705},{word:"平潭综合实验区税务局君山税务所",left:0.197547,top:0.040316,width:0.360536,height:0.157231}];
